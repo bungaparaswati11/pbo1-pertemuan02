@@ -2,6 +2,6 @@ package koneksi;
 
 public class Database{
  public static void hubungkan(){
-  Systen.out.println("Database Terhubung..");
+  System.out.println("Database Terhubung..");
  }
 }
